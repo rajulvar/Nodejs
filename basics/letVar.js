@@ -1,0 +1,3 @@
+const name= 'Rajul'; //i am using const here because i know i will neaver change this variable so i am making it a constant 
+let age= 19; // instead of using var i am using let for age i) I know age will change every year ii)It is better than using var as it reduce chances of creating a bug unknowingly
+const isAdult= true;// once you become adult you can't be again become a kid xd but i have to give isAdult to someone who is less trhen 18 years of age then would have assigned it with the help of the let 
